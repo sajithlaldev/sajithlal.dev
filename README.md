@@ -16,7 +16,7 @@
   <p align="center">
     Mobile Application Developer
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Visit my site »</strong></a>
+    <a href="https://sajithlal.dev"><strong>Visit my site »</strong></a>
   </p>
 </div>
 
