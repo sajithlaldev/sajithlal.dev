@@ -1,4 +1,5 @@
 
+
 <p align="center">
   
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -16,17 +17,10 @@
   <p align="center">
     Mobile Application Developer
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Visit my site »</strong></a>
+    <a href="https://sajithlal.dev"><strong>Visit my site »</strong></a>
   </p>
 </div>
 
-<h3>Screenshots</h3>
-
-![MyWebsite](https://user-images.githubusercontent.com/28499651/149657445-df3dad80-c907-448b-90b8-37c3636306ff.jpg)
-
-
-
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sajithlal-m-k-882ba1139/
-
 
